@@ -28,16 +28,18 @@
 //}
 
 //Variabel
-#include <stdio.h>
-int main () {
-	int bebek = 10;
-	float luas = 2.5;
-	float keliling = 3.14;
-	printf("Jumlah Bebek Adalah : %d \n", bebek);
-	printf("Ini Jumlah Luasnya : %d \n", luas);
-	printf("Keliling Jari-Jari Adalah : %d", keliling);
-	return 0;
-}
+//#include <stdio.h>
+//int main () {
+//	int bebek = 10;
+//	float luas = 2.5;
+//	float keliling = 3.14;
+//	printf("Jumlah Bebek Adalah : %d \n", bebek);
+//	printf("Ini Jumlah Luasnya : %d \n", luas);
+//	printf("Keliling Jari-Jari Adalah : %d", keliling);
+//	return 0;
+//}
+
+
 
 
 
