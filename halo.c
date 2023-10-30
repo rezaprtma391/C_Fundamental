@@ -19,12 +19,26 @@
 //	return 0;
 //}
 
+//Variabel
+//#include <stdio.h>
+//int main () {
+//	int umur = 19;
+//	printf ("ini umurku : %d \n", umur);
+//	return 0;
+//}
+
+//Variabel
 #include <stdio.h>
 int main () {
-	int i = 5;
-	printf ("ini nilai i : %d \n", i);
+	int bebek = 10;
+	float luas = 2.5;
+	float keliling = 3.14;
+	printf("Jumlah Bebek Adalah : %d \n", bebek);
+	printf("Ini Jumlah Luasnya : %d \n", luas);
+	printf("Keliling Jari-Jari Adalah : %d", keliling);
 	return 0;
 }
+
 
 
 
