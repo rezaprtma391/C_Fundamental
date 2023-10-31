@@ -282,6 +282,85 @@
 //  return 0;
 //}
 
+//Array
+//#include<stdio.h>
+//int main(){
+//	//array integer
+//	int tab[5] = {1,2,3,4,5};
+//	//array float
+//	float tabx[3] = {1.5,3.5E2,9.99};
+//	//array char
+//	char tabz[4] = {'A','B','C','D'};
+//	
+//	int i;
+//	
+//	for(i=0;i<5;i++){
+//		printf("Tab %d = %d \n", tab[i], i);	
+//	}
+//	printf("\n");
+//	return 0;
+//}
+
+//#include<stdio.h>
+//int main(){
+//	int tab[5];
+//	int i;
+//	
+//	for(i=0;i<5;i++){
+//		scanf("%d", &tab[i]);
+//	}
+//	
+//	for (i=0; i<5; i++) {
+//     printf ("tab[%d]= %d ;", i, tab[i]);
+//  	}
+// 	printf ("\n");
+//  
+//  	return 0;
+//}
+
+//#include<stdio.h>
+//int main(){
+//	int i;
+//	int Tab[10] = {1, 50 , 6 , 200, 3, 100, 30, 8, 99, 100 };
+//	int max;
+//	
+//	
+//	max = Tab[0];
+//	for(i=1;i<10;i++){
+//		if(Tab[i]>max) {
+//			max=Tab[i];
+//		}
+//	}
+//	printf("Nilai Max = %d", max);
+//	return 0;
+//}
+
+
+//fungsi
+//#include<stdio.h> 
+//int add(int a, int b){
+//	return (a + b);
+//}
+//int increment(int a){
+//	return (a + 1);
+//}
+//int main(){
+//	int x = 10;
+//	int y = 25;
+//	printf("Hasil penjumlahan x+y = %d \n", add(x,y)); 
+//  	printf("Hasil penjumlahan 3+2 = %d \n", add(3,2));
+//  	
+//  	printf("nilai x   : %d\n", x);
+//  	printf("nilai x  setelah ditambah 1 : %d\n", increment(x));
+//  	printf("nilai 5  setelah ditambah 1 : %d\n", increment(5));
+// 
+//  	return 0;
+//}
+
+
+
+
+
 
 
 
