@@ -263,15 +263,25 @@
 //	return 0;
 //}
 
-#include<stdio.h>
-int main(){
-	int i;
-	do{
-		printf("Saya Senang Belajar Bahasa C\n");
-		i++;
-	}while(i<5);
-	return 0;
-}
+//#include<stdio.h>
+//int main(){
+//	int i;
+//	do{
+//		printf("Saya Senang Belajar Bahasa C\n");
+//		i++;
+//	}while(i<5);
+//	return 0;
+//}
+
+//forever
+//#include<stdio.h>
+//int main(){
+//	printf("Program akan looping, akhiri dengan Ctrl-c "); 
+//  while (1)
+//    {     printf ("Tunggu \n");}
+//  return 0;
+//}
+
 
 
 
